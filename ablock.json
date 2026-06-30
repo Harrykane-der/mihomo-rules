@@ -7,8 +7,10 @@
         "httpsdns",
         "stun",
         "p2p",
-        "ad.",
-        "ads."
+        "ad",
+        "ads",
+        "mcdn",
+        "dns"   
       ]
     },
     {
